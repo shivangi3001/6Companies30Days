@@ -20,9 +20,9 @@ A 2023 coding challenge to solve 15 question in 5 days for a month
 
 5) [Seat Arrangement in a SpiceJet Problem - Online OA February ‘22](https://leetcode.com/problems/airplane-seat-assignment-probability/description/)
 
-6) 
+6) [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/).
 
-5) [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/).
+### ----------------------------------------------------
 
 6)[How to find a perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/).
 
